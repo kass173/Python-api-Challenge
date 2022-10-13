@@ -1,6 +1,6 @@
 # Adding config.py file.
 api_keys.py
-
+output_data
 API_practice.ipynb
-
+.gitattributes
 random_numbers.ipynb
